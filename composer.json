@@ -13,5 +13,12 @@
             "email": "2garin.zmej@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "wp-cli/php-cli-tools": "^0.11.11"
+    },
+    "autoload": {
+        "psr-4": {
+            "games\\": "src/"
+        }
+    }
 }
