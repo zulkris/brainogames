@@ -1,0 +1,17 @@
+{
+    "name": "zulkris/brainogames",
+    "bin" : [
+    	"bin/brain-games"
+    ],
+    "description": "Test project",
+    "keywords" : ["game", "test"],
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Zahar 'zulkris' Stebloysky",
+            "email": "2garin.zmej@gmail.com"
+        }
+    ],
+    "require": {}
+}
