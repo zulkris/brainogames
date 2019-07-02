@@ -1,0 +1,6 @@
+plugins:
+  phpcodesniffer:
+    enabled: true
+    config:
+      standart: "PSR1,PSR2"
+      file_extensions: "bin,php"
