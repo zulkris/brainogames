@@ -1,0 +1,5 @@
+language: php
+jobs:
+  include:
+    - stage: linter
+      script: make lint
