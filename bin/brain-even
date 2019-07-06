@@ -1,0 +1,11 @@
+#!/usr/bin/env php
+<?php
+
+namespace BrainGames;
+
+require_once '../vendor/autoload.php';
+
+//use function Cli\even;
+//use function Cli\game;
+
+Cli\game(Cli\even());
